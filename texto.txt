@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 minions gosta de banana
-=======
 Git é Difícil
->>>>>>> 4f12ecb155b135a97cd48e041142f99b3b93516e
+Git é Difícil
+Git é mediano2
+
